@@ -1,5 +1,8 @@
 Hi, I'm Vance - A fullstack developer
 
+My recent development work has been under DoD NDA, so, I've creating a new github for new fun stuff.
+If you're interested in connecting or working on an AI project - let me know! vance.denson@protonmail
+
 Current Interests: *Everything AI*
 - LangChain, Huggingface, Kaggle, OpenAI, Python, Pytorch, Fast.AI, FastAPI, transformers, diffusers
 - RTX3090, Civitai, StableDiffusion, Mid-Journey
