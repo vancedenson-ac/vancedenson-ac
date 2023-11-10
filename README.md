@@ -10,6 +10,17 @@ Current Interests: *Everything AI*
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae2904c4-dcc7-4d2a-a0db-048117ffcf59/width=350/00010-146877589.jpeg)
 
+__Recent Projects:__
+- Python APIs (in-progress)
+  - Practice creating production quality Python APIs
+  - FastAPI, LangChain, Docker
+- AI Reviews [aireviews.app](http://aireviews.app)
+  - Experimental blogging website focusing on AI related products and services
+  - NextJS 13, Cookie Management, Vercel Analytics
+- Read My Money [readmymoney.com](http://readmymoney.com)
+  - Website to book financial advisory appointments, created for a friend
+  - NextJS 13, Calendly API
+
 __Professional Experience:__
 
 React & React Native Developer @ [TTSI Global](https://ttsiglobal.com)
