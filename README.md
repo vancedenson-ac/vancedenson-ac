@@ -28,5 +28,6 @@ Senior Quality Assurance Engineer @ [Frontline Test Equipment](https://fte.com)
 - Manual and Automated smart device testing
 - Bash/Batch scripting, test plan creation and execution
 - Client reporting, on-site debug, root-cause-analysis of protocol traces
+- __Windows, iOS, Android, adb, Xcode, device logging and automation__
 - __802.11, Bluetooth, NFC, USB__
 
