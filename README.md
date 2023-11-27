@@ -1,5 +1,7 @@
 Hi, I'm Vance - A fullstack developer
 
+__Website__: [https://aigoof.lol](https://aigoof.lol)
+
 My recent development work has been under NDA, so, I've created a new github for the new fun stuff.
 If you're interested in connecting or working on an AI project - let me know! vance.denson@protonmail
 
