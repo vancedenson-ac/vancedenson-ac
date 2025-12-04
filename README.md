@@ -10,18 +10,14 @@ Current Interests: *Everything AI*
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae2904c4-dcc7-4d2a-a0db-048117ffcf59/width=350/00010-146877589.jpeg)
 
 __Recent Projects:__
-- Python APIs (in-progress)
-  - Practice creating production quality Python APIs
-  - FastAPI, LangChain, Docker
-  - Experimental AI related products and services
-  - NextJS 13, Cookie Management, Vercel Analytics
+  - React & NextJS, Gradio, FastAPI, LangChain, Docker, Postgres, AI services - OpenAI/Claude/Cursor/Perplexity/Fal
 
 __Professional Experience:__
 
 Database Architect - Software Developer @ [FHWA - Bridges and Structures](https://www.fhwa.dot.gov/bridge/)
-- Maintain bridge managment production databases
-- Develop and manage ETL scripts for bridge inspection data, analysis and reporting
-- __Python, Azure DevOps, MS SQL Server__
+- Maintain bridge managment production databases and production applications
+- Development for bridge inspection data collection, analysis and reporting
+- __Python, Pandas/GeoPandas, GIS, ASPNET, MSSQL__
 
 React & React Native Developer @ [TTSI Global](https://ttsiglobal.com)
 - Transfer DoD requirements into web and mobile applications
