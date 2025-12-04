@@ -1,9 +1,6 @@
 Hi, I'm Vance - A fullstack developer
 
-__Website__: [https://aigoof.lol](https://aigoof.lol)
-
-My recent development work has been under NDA, so, I've created a new github for the new fun stuff.
-If you're interested in connecting or working on an AI project - let me know! vance.denson@protonmail
+__Website__: [https://aigoof.lol](https://advanced.promo)
 
 Current Interests: *Everything AI*
 - LangChain, Huggingface, Kaggle, OpenAI, Python, Pytorch, Fast.AI, FastAPI, transformers, diffusers
@@ -16,12 +13,8 @@ __Recent Projects:__
 - Python APIs (in-progress)
   - Practice creating production quality Python APIs
   - FastAPI, LangChain, Docker
-- AI Reviews [aireviews.app](http://aireviews.app)
-  - Experimental blogging website focusing on AI related products and services
+  - Experimental AI related products and services
   - NextJS 13, Cookie Management, Vercel Analytics
-- Read My Money [readmymoney.com](http://readmymoney.com)
-  - Website to book financial advisory appointments, created for a friend
-  - NextJS 13, Calendly API
 
 __Professional Experience:__
 
