@@ -4,13 +4,6 @@ __Website__: [https://advanced.promo](https://advanced.promo)
 
 __YouTube__: [AIGoof](https://www.youtube.com/@aigoof)
 
-Current Interests: *Everything AI*
-- LangChain, Huggingface, Kaggle, OpenAI, Python, Pytorch, Fast.AI, FastAPI, transformers, diffusers
-- RTX3090, ComfyUI, Civitai, StableDiffusion, Mid-Journey
-- __Jeremy Howard__
-
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae2904c4-dcc7-4d2a-a0db-048117ffcf59/width=350/00010-146877589.jpeg)
-
 __Recent Projects:__
   - React & NextJS, Gradio, FastAPI, LangChain, Docker, Postgres, AI workflows (n8n, Claude CLI/Code, Cursor, OpenAI, Perplexity, Fal)
 
@@ -40,3 +33,9 @@ Senior Quality Assurance Engineer @ [Frontline Test Equipment](https://fte.com)
 - __Windows, iOS, Android, adb, Xcode, device logging and automation__
 - __802.11, Bluetooth, NFC, USB__
 
+Current Interests: *Everything AI*
+- LangChain, Huggingface, Kaggle, OpenAI, Python, Pytorch, Fast.AI, FastAPI, transformers, diffusers
+- RTX3090, ComfyUI, Civitai, StableDiffusion, Mid-Journey
+- __Jeremy Howard__
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae2904c4-dcc7-4d2a-a0db-048117ffcf59/width=350/00010-146877589.jpeg)
