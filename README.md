@@ -2,7 +2,7 @@ Hi, I'm Vance - A fullstack developer
 
 __Website__: [https://advanced.promo](https://advanced.promo)
 
-__YouTube__: [AIGoof](https://www.youtube.com/@aigoof) (maybe more to come...)
+__YouTube__: [AIGoof](https://www.youtube.com/@aigoof)
 
 Current Interests: *Everything AI*
 - LangChain, Huggingface, Kaggle, OpenAI, Python, Pytorch, Fast.AI, FastAPI, transformers, diffusers
@@ -12,11 +12,11 @@ Current Interests: *Everything AI*
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae2904c4-dcc7-4d2a-a0db-048117ffcf59/width=350/00010-146877589.jpeg)
 
 __Recent Projects:__
-  - React & NextJS, Gradio, FastAPI, LangChain, Docker, Postgres, AI services - OpenAI/Claude/Cursor/Perplexity/Fal
+  - React & NextJS, Gradio, FastAPI, LangChain, Docker, Postgres, AI workflows (n8n, Claude CLI/Code, Cursor, OpenAI, Perplexity, Fal)
 
 __Professional Experience:__
 
-Database Architect - Software Developer @ [FHWA - Bridges and Structures](https://www.fhwa.dot.gov/bridge/)
+Senior Data Engineer - Software Developer @ [FHWA - Bridges and Structures](https://www.fhwa.dot.gov/bridge/)
 - Maintain bridge managment production databases and production applications
 - Development for bridge inspection data collection, analysis and reporting
 - __Python, Pandas/GeoPandas, GIS, ASPNET, MSSQL__
